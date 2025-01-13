@@ -1,0 +1,69 @@
+---
+title: "Vsevolod Iakovlev"
+image: pfrofpic_sq.jpg
+resources: cv_vsevolod_iakovlev.pdf
+about:
+  template: solana
+  image-shape: round
+  image-width: 13em
+  id: summary
+  links:
+    - text: email
+      icon: envelope
+      href: mailto:vsevolod.v.iakovlev@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/vsevolodiakovlev
+    - text: Google Scholar
+      icon: mortarboard
+      href: https://scholar.google.com/citations?user=PhEW2foAAAAJ&hl=en)
+    - icon: twitter-x
+      href: https://x.com/seva_iakovlev
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/vsevolod-iakovlev/
+    - text: CV
+      icon: file-text
+      href: cv_vsevolod_iakovlev.pdf
+listing: 
+  - id: research
+    contents: "research/*.qmd"
+    type: grid
+    fields: [title, subtitle, author, description, date, image]
+    sort:
+      - "date desc"
+      - "title asc"
+    sort-ui: false
+  - id: code
+    contents: "code/*.qmd"
+    type: grid
+    fields: [title, subtitle, author, description, date, image]
+    sort:
+      - "date desc"
+      - "title asc"
+    sort-ui: false
+    max-description-length: 175
+    image-height: 7.7em
+---
+
+:::{#summary}
+I am an Economics PhD candidate at Heriot-Watt University, 
+specializing in applied economics with a 
+focus on labour and education. 
+
+My current projects explore:
+
+* labour mismatch 
+* gender wage gap 
+* stable matching
+* workers' preferences
+* applications of machine learning in economics
+:::
+
+### Research
+
+:::{#research}
+:::
+
+### Code
+    

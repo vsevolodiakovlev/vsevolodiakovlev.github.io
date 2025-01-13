@@ -1,0 +1,8 @@
+---
+title: "[dap_mrs](https://github.com/vsevolodiakovlev/dap_mrs)"
+subtitle: "*Deferred Acceptance with Marginal Rate of Substitution*"
+description: "This module is a python implementation of the deferred acceptance procedure (DAP) developed by Gale and Shapley (1962). The algorithm computes an applicant-optimal assignment based on the data for the agents' characteristics and the marginal rate of substitution (MRS) between the characteristics of their counterparts."
+author: "V. Iakovlev"
+date: "2024/12/11"
+image: dap_mrs.png
+---

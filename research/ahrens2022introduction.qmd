@@ -1,0 +1,11 @@
+---
+title: "[An introduction to stacking regression for economists](https://link.springer.com/chapter/10.1007/978-3-030-97273-8_2)"
+description: "We present an introduction to “stacked generalization” (Wolpert in Neural Networks 5(2):241–259, 1992 [21]). The increased availability of “Big Data” in economics and the emergence of non-traditional machine learning tools presents new opportunities for applied economics, but it also imposes additional challenges. The full range of supervised learning algorithms offers a rich variety of methods, each of which could be more efficient in addressing a specific problem. Selecting the optimal algorithm and tuning its parameters can be time-consuming due to potential lack of experience in machine learning and relevant economic literature. “Stacking” is a useful tool that can be used to address this: it is an ensemble method for combining multiple supervised machine learners in order to achieve more accurate predictions than could be produced by any of the individual machine learners. Besides providing an introduction to the stacking methodology, we also present a short survey of some of the estimators or “base learners” that can be used with stacking: lasso, ridge, elastic net, support vector machines, gradient boosting, and random forests. Our empirical example of how to use stacking regression uses the study by Fatehkia et al. (PLOS ONE 14(2):1–16, 2019 [6]): predicting crime rates in localities using demographic and socioeconomic data combined with data from Facebook on user interests."
+author: "A. Ahrens, E. Ersoy, V. Iakovlev, H. Li, M. E. Schaffer"
+date: "2022/1/1"
+image: stack.jpg
+---
+
+Photo by <a href="https://unsplash.com/@thoughtcatalog?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thought Catalog</a> on <a href="https://unsplash.com/photos/person-holding-pile-of-books-o0Qqw21-0NI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+

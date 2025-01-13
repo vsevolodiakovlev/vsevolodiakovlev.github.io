@@ -1,0 +1,10 @@
+---
+title: "[Using machine learning methods to estimate the gender wage gap](https://link.springer.com/chapter/10.1007/978-3-031-43601-7_6)"
+description: "The Gender Wage Gap (GWG) is a classic topic in labour economics. Simply put, how do we explain the observed gap in earnings between men and women? Traditionally the GWG has been estimated using regression models based on Mincer-type wage equations controlling for individual, job and firm characteristics. Recently the literature has shifted towards understanding the relevance of methodological choices in estimating the GWG, including new machine learning (ML) techniques. This paper contributes to the discussion by exploring the alternative machine learning techniques to estimate the GWG. Specifically, we illustrate how to implement the proposal of Ahrens et al. to use “stacking regression” in combination with the “Double-Debiased Machine Learning” methodology of Chernozhukov et al. ."
+author: "R. Forshaw, V. Iakovlev, M. E. Schaffer, C. Tealdi"
+date: "2024/6/2"
+image: gwg.jpg
+---
+
+Photo by <a href="https://unsplash.com/@mathieustern?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mathieu Stern</a> on <a href="https://unsplash.com/photos/green-and-white-ceramic-figurine-1fzyz-bmKBw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
