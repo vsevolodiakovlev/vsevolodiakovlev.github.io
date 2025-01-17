@@ -1,8 +1,1 @@
 /* css styles */
-
-/* Disable responsive media queries */
-@media screen and (max-width: 768px) {
-    body {
-      width: 1024px; /* Or the desired desktop width */
-    }
-  }
