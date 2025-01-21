@@ -1,15 +1,26 @@
 /* css styles */
 
-@media (max-width: 991.98px) {
+@media (min-width: 991.98px) {
 div.quarto-about-solana .about-entity .about-links {
     flex-direction: row;
     column-gap: 0.5em;
     width: 100%;
     padding-bottom: 1.5em;
     flex-wrap: wrap;
-    font-size: x-large;
+    font-size: larger;
 }
 }
+
+@media (max-width: 991.98px) {
+    div.quarto-about-solana .about-entity .about-links {
+        flex-direction: row;
+        column-gap: 0.5em;
+        width: 100%;
+        padding-bottom: 1.5em;
+        flex-wrap: wrap;
+        font-size: x-large;
+    }
+    }
 
 @media (max-width: 991.98px) {
     ::marker {
@@ -31,12 +42,10 @@ div.quarto-about-solana .about-entity .about-links {
 }
 }
 
-@media (max-width: 991.98px) {
 div.quarto-about-solana .about-entity .about-link {
     font-size: 1.1em;
     padding: 0.1em 0.1em;
     text-align: center;
     border-radius: 6px;
     border-style: none;
-}
 }
