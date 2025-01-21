@@ -8,22 +8,17 @@ about:
   image-width: 13em
   id: summary
   links:
-    - text: email
-      icon: envelope
+    - icon: envelope
       href: mailto:vsevolod.v.iakovlev@gmail.com
-    - text: GitHub
-      icon: github
+    - icon: github
       href: https://github.com/vsevolodiakovlev
-    - text: Google Scholar
-      icon: mortarboard
+    - icon: mortarboard
       href: https://scholar.google.com/citations?user=PhEW2foAAAAJ&hl=en)
     - icon: twitter-x
       href: https://x.com/seva_iakovlev
-    - text: LinkedIn
-      icon: linkedin
+    - icon: linkedin
       href: https://www.linkedin.com/in/vsevolod-iakovlev/
     - text: CV
-      icon: file-text
       href: cv_vsevolod_iakovlev.pdf
 listing: 
   - id: research
