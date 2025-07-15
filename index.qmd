@@ -12,8 +12,10 @@ about:
       href: mailto:vsevolod.v.iakovlev@gmail.com
     - icon: github
       href: https://github.com/vsevolodiakovlev
-    - icon: mortarboard
+    - text: "{{< iconify academicons:google-scholar >}}"
       href: https://scholar.google.com/citations?user=PhEW2foAAAAJ&hl=en)
+    - text: "{{< iconify academicons:orcid >}}"
+      href: https://orcid.org/my-orcid?orcid=0009-0003-8054-8382
     - icon: twitter-x
       href: https://x.com/seva_iakovlev
     - icon: linkedin
