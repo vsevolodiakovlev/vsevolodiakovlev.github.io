@@ -1,0 +1,10 @@
+---
+title: "[Matched or Mismatched? Unpacking Gender Mismatch Gaps with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5362283)"
+description: "This paper investigates gender differences in labour market mismatch, specifically, over-education and over-skilling, using rich microdata from the OECD’s Survey of Adult Skills (PIAAC) for the UK. We construct multiple education- and skill-based mismatch indicators and estimate both raw and adjusted gender mismatch gaps (GMGs). To estimate the average treatment effect on the treated (ATET) and flexibly account for a high-dimensional set of covariates, we apply the double-debiased machine learning (DDML) approach combined with stacked generalisation. Our findings confirm that women are more likely to be over-educated, while men are more likely to be over-skilled, in line with previous literature. However, once we control for observable characteristics, most of the gender mismatch gaps attenuate and lose statistical significance. These results highlight the importance of both how mismatch is defined and the methodological approach used, while suggesting that observed gender disparities in mismatch are largely driven by differences in labour market sorting rather than differential treatment."
+author: "V. Iakovlev, C. Tealdi"
+date: "2025/7/22"
+image: gmg.jpg
+---
+
+Photo by <a href="https://unsplash.com/@anniespratt">Annie Spratt </a> on <a href="https://unsplash.com/photos/a-large-group-of-puzzle-pieces-on-a-table-D7nxF79v9Ao">Unsplash</a>
+      
