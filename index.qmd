@@ -9,7 +9,7 @@ about:
   id: summary
   links:
     - icon: envelope
-      href: mailto:vsevolod.v.iakovlev@gmail.com
+      href: mailto:v.iakovlev@hw.ac.uk
     - icon: github
       href: https://github.com/vsevolodiakovlev
     - text: "{{< iconify academicons:google-scholar >}}"
@@ -44,15 +44,15 @@ listing:
 ---
 
 :::{#summary}
-I am an Economics PhD candidate at Heriot-Watt University, 
-specializing in applied economics with a 
-focus on labour and education. 
+I am a Postdoc Research Associate in Economics at Heriot-Watt University, 
+specializing in applied economics. 
 
 My current projects explore:
 
+* transport decarbonisation
 * labour mismatch 
 * gender wage gap 
-* stable matching
+* two-sided matching
 * workers' preferences
 * applications of machine learning in economics
 :::
