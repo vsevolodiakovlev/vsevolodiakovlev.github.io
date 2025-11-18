@@ -44,16 +44,15 @@ listing:
 ---
 
 :::{#summary}
-I am a Postdoc Research Associate in Economics at Heriot-Watt University, 
+I'm a Research Associate in Economics at Heriot-Watt University, 
 specializing in applied economics. 
 
 My current projects explore:
 
 * transport decarbonisation
-* labour mismatch 
+* educational and skill mismatch 
 * gender wage gap 
 * two-sided matching
-* workers' preferences
 * applications of machine learning in economics
 :::
 
