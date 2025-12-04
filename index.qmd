@@ -49,7 +49,7 @@ specializing in applied economics.
 
 My current projects explore:
 
-* transport decarbonisation
+* transport economics
 * educational and skill mismatch 
 * gender wage gap 
 * two-sided matching
