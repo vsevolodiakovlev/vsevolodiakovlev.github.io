@@ -6,5 +6,3 @@ author: "V. Iakovlev"
 date: "2024/12/16"
 image: mismatch.jpg
 ---
-
-Photo by <a href="https://unsplash.com/@jjik_da?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chanhee Lee</a> on <a href="https://unsplash.com/photos/green-and-white-nike-sneakers-CyB016UuDas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

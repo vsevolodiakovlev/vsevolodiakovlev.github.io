@@ -32,11 +32,11 @@ listing:
       - "title asc"
     sort-ui: false
     max-description-length: 120
-    image-height: 220px
     date-format: iso
     table-striped: False
     table-hover: True
     image-align: right
+    field-links: [date, title, subtitle, description, author]
   - id: code
     contents: "code/*.qmd"
     type: grid
@@ -45,9 +45,11 @@ listing:
       - "date desc"
       - "title asc"
     sort-ui: false
-    max-description-length: 175
+    max-description-length: 120
     image-height: 7.7em
+    date-format: iso
     grid-item-border: True
+    field-links: [title, subtitle, author, description, date, image]
 ---
 
 :::{#summary}

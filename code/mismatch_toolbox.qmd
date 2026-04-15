@@ -1,6 +1,6 @@
 ---
-title: "[mismatch_toolbox](https://github.com/vsevolodiakovlev/mismatch_toolbox)"
-subtitle: "*Labout Mismatch Toolbox for PIAAC*"
+title: "mismatch_toolbox"
+subtitle: "[Labout mismatch toolbox for PIAAC](https://github.com/vsevolodiakovlev/mismatch_toolbox)"
 description: "This package provides a set of functions designed to compute education and skill-based labour mismatch using data from the 1st Cycle of the Survey of Adult Skills (PIAAC). The currently available measures include job analysis, realised matches, indirect self-assessment, direct self-assessment, Pellizzari and Fichen (2017), and Allen et al. (2013)."
 author: "V. Iakovlev"
 date: "2025/2/27"

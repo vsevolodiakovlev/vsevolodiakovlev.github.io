@@ -6,6 +6,4 @@ author: "R. Forshaw, V. Iakovlev, M. E. Schaffer, C. Tealdi"
 date: "2024/6/2"
 image: gwg.jpg
 ---
-
-Photo by <a href="https://unsplash.com/@mathieustern?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mathieu Stern</a> on <a href="https://unsplash.com/photos/green-and-white-ceramic-figurine-1fzyz-bmKBw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       

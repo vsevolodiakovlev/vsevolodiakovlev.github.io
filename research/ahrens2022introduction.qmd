@@ -6,7 +6,5 @@ author: "A. Ahrens, E. Ersoy, V. Iakovlev, H. Li, M. E. Schaffer"
 date: "2022/1/1"
 image: stack.jpg
 ---
-
-Photo by <a href="https://unsplash.com/@thoughtcatalog?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thought Catalog</a> on <a href="https://unsplash.com/photos/person-holding-pile-of-books-o0Qqw21-0NI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 
