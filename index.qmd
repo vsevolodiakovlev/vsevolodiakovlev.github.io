@@ -25,12 +25,18 @@ about:
 listing: 
   - id: research
     contents: "research/*.qmd"
-    type: grid
-    fields: [title, subtitle, author, description, date, image]
+    type: default
+    fields: [date, title, subtitle, description, author]
     sort:
       - "date desc"
       - "title asc"
     sort-ui: false
+    max-description-length: 120
+    image-height: 220px
+    date-format: iso
+    table-striped: False
+    table-hover: True
+    image-align: right
   - id: code
     contents: "code/*.qmd"
     type: grid
@@ -41,6 +47,7 @@ listing:
     sort-ui: false
     max-description-length: 175
     image-height: 7.7em
+    grid-item-border: True
 ---
 
 :::{#summary}
