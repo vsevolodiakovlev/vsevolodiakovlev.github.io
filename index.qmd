@@ -59,7 +59,7 @@ specializing in applied economics.
 My current projects explore:
 
 * transport economics
-* educational and skill mismatch 
+* labour market mismatch 
 * gender wage gap 
 * two-sided matching
 * applications of machine learning in economics
