@@ -1,0 +1,8 @@
+---
+title: "[Overqualification and the child penalty: Unpacking gender mismatch gaps in the UK](https://www.sciencedirect.com/science/article/pii/S0927537126000862?__cf_chl_f_tk=R0RnAF2_JrWGnHVRp9G8tqeS_T4CmGvZmkpd1oJ2dqE-1783413264-1.0.1.1-eUWDYoKPXldt3RZyQeuevfhnbAbensf7VPchG0unb4c)"
+subtitle: "*Labour Economics*"
+description: "This paper studies gender differences in labour market mismatch, over-education and over-skilling in the UK using two waves of the OECD Survey of Adult Skills (PIAAC) from 2012 and 2023. We construct six mismatch indicators and estimate adjusted gender mismatch gaps using double/debiased machine learning paired with stacked generalisation. In the full sample, the gap is largely explained by observable characteristics, but this masks a pronounced heterogeneity by parenthood: the adjusted gap is negligible among childless workers and large and persistent among parents. We show that this gap reflects motherhood-induced occupational re-sorting, which intensifies over the life cycle and is concentrated in inflexible industries. Over time, the skill-based component of the gap has narrowed substantially, while the credential-based component has not, suggesting that recent UK family policies have operated on the time-cost margin of skill use but not on the allocation of workers across jobs with different formal requirements."
+author: "V. Iakovlev, C. Tealdi"
+date: "2026/7/07" 
+---
+      
