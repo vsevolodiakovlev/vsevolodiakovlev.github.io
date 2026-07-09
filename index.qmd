@@ -10,18 +10,16 @@ about:
   links:
     - icon: envelope
       href: mailto:v.iakovlev@hw.ac.uk
-    - icon: github
-      href: https://github.com/vsevolodiakovlev
+    - text: "{{< iconify academicons:cv-square >}}"
+      href: cv_vsevolod_iakovlev.pdf
     - text: "{{< iconify academicons:google-scholar >}}"
       href: https://scholar.google.com/citations?user=PhEW2foAAAAJ&hl=en)
+    - text: "{{< iconify mingcute:github-fill >}}"
+      href: https://github.com/vsevolodiakovlev
     - text: "{{< iconify academicons:orcid >}}"
       href: https://orcid.org/my-orcid?orcid=0009-0003-8054-8382
-    - icon: twitter-x
-      href: https://x.com/seva_iakovlev
-    - icon: linkedin
+    - text: "{{< iconify ri:linkedin-fill >}}"
       href: https://www.linkedin.com/in/vsevolod-iakovlev/
-    - text: CV
-      href: cv_vsevolod_iakovlev.pdf
 listing: 
   - id: research
     contents: "research/*.qmd"
