@@ -8,7 +8,7 @@ about:
   image-width: 13em
   id: summary
   links:
-    - icon: envelope
+    - icon: envelope-fill
       href: mailto:v.iakovlev@hw.ac.uk
     - text: "{{< iconify academicons:cv-square >}}"
       href: cv_vsevolod_iakovlev.pdf
